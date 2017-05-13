@@ -1,0 +1,3 @@
+Some file here
+with some junk content
+just used for testing this streams in node js
